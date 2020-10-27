@@ -8,3 +8,5 @@ Here is my index page
 
 there will be more content soon
 
+
+{% include contact.md %}
